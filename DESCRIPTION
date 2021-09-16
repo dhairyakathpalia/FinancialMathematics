@@ -1,0 +1,14 @@
+Package: FinancialMathematics
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0-0
+Authors@R: 
+    person(given = "Dhairya",
+           family = "Kathpalia",
+           role = c("aut", "cre"),
+           email = "37740335+dhairyakathpalia@users.noreply.github.com")
+Description: Perform basic Financial Opertations.
+License: AGPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
